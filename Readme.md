@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Data Engineer 2**
 
-- 💬 Ask me about **data engineering**
+- 💬 Ask me about **data engineering , data analytics and data science**
 
 - 📫 How to reach me **ravi.kumbar.de.gmail.com**
 
