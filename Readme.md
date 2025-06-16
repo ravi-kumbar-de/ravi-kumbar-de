@@ -16,7 +16,7 @@
 - 🔭 Data Engineer with expertise in building scalable data pipelines and ETL processes
 - 💡 Specializing in big data technologies and cloud infrastructure
 - 🌱 Passionate about solving complex data challenges and implementing efficient solutions
-- 👨‍💻 5+ years of experience in data engineering and analytics
+- 👨‍💻 6+ years of experience in data engineering and analytics
 
 ### 🛠️ Technical Stack
 
